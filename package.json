@@ -1,0 +1,43 @@
+{
+  "name": "stork-oracle-multi-account-bot",
+  "version": "1.0.0",
+  "description": "Multi-account automated validation bot for Stork Oracle with proxy support",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "stork",
+    "oracle",
+    "automation",
+    "bot",
+    "multi-account",
+    "proxy"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "amazon-cognito-identity-js": "^6.3.1",
+    "axios": "^1.4.0",
+    "https-proxy-agent": "^7.0.1",
+    "node-fetch": "^3.3.1",
+    "socks-proxy-agent": "^8.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.44.0",
+    "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-username/stork-oracle-multi-account-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/stork-oracle-multi-account-bot/issues"
+  },
+  "homepage": "https://github.com/your-username/stork-oracle-multi-account-bot#readme"
+}
