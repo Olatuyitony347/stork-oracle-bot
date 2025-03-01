@@ -34,10 +34,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/your-username/stork-oracle-multi-account-bot.git"
+    "url": "git+https://github.com/chichiops/stork-oracle-multi-account-bot.git"
   },
   "bugs": {
-    "url": "https://github.com/your-username/stork-oracle-multi-account-bot/issues"
+    "url": "https://github.com/chichiops/stork-oracle-multi-account-bot/issues"
   },
-  "homepage": "https://github.com/your-username/stork-oracle-multi-account-bot#readme"
+  "homepage": "https://github.com/chichiops/stork-oracle-multi-account-bot#readme"
 }
