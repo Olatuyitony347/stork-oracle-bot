@@ -40,7 +40,7 @@ cd stork-oracle-bot
 npm install
 ```
 ## Account Configuration
-For each account, create a JSON file in the `accounts.json` directory with the following format:
+For each account, create a JSON file in the `account.json` directory with the following format:
 ```bash
 {
   "username": "your_email@example.com",
